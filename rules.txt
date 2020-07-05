@@ -1,2 +1,7 @@
 ! Supano custom block ads list
+
+!
+! Tracking
+!
+pizzaseo.com^
 ||pizzaseo.com^
