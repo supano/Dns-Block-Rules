@@ -1,0 +1,7 @@
+! Supano custom allowed list
+
+!
+! Social
+!
+||graph.facebook.com^
+||graph.instagram.com^
