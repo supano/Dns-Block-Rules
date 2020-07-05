@@ -1,1 +1,2 @@
-||pizzaseo.com
+! Supano custom block ads list
+||pizzaseo.com^
