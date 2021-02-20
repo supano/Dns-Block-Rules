@@ -162,3 +162,268 @@ www.animerem.com##center:nth-of-type(35)
 
 ! 8/8/2020 https://movie2uhd.com
 ||www.dubai9999.com/backend_admin/banner_link//uploads/macau773*272.gif?t=1594789680^
+
+! 2020-11-29 https://www.android-x86.org
+www.android-x86.org##.brid-touch-overlay
+||videos.increaserev.com/us/3_986325048441020390rebout-la-yr.mp4$media
+||videos.increaserev.com/us/3_986325048441020390rebout-la-yr.mp4$media
+www.android-x86.org##.brid-button.brid-overlay-play-button > span > svg > path
+||videos.increaserev.com/us/3_986325048441020390rebout-la-yr.mp4$media
+||videos.increaserev.com/us/3_986325048441020390rebout-la-yr.mp4$media
+||videos.increaserev.com/us/3_986325048441020390rebout-la-yr.mp4$media
+
+! 2020-11-29 https://www.newmovie-hd.org
+||www.newmovie-hd.org/wp-content/uploads/2020/11/AA1Banner.gif$image
+||www.newmovie-hd.org/wp-content/uploads/2020/10/SexyBet.gif$image
+||www.newmovie-hd.org/wp-content/uploads/2020/11/CR99Bet.gif$image
+||www.newmovie-hd.org/wp-content/uploads/2020/11/120x300-juad888.gif$image
+||www.newmovie-hd.org/wp-content/uploads/2020/08/MAHA.gif$image
+||www.newmovie-hd.org/wp-content/uploads/2020/11/120x300-77lotto.gif$image
+||www.037hdd.com/wp-content/uploads/2019/01/close.png$image
+||www.newmovie-hd.org/wp-content/uploads/2020/10/UFAWinner.gif$image
+||www.newmovie-hd.org/wp-content/uploads/2020/10/zzGame.gif$image
+||www.newmovie-hd.org/wp-content/uploads/2020/11/Gclub11111.gif$image
+||www.newmovie-hd.org/wp-content/uploads/2020/08/SAGame.gif$image
+||www.newmovie-hd.org/wp-content/uploads/2020/10/Macau12.gif$image
+||www.newmovie-hd.org/wp-content/uploads/2020/10/Macau11.gif$image
+||images.allwebview3.com/4RuWVkhC.gif$image
+||images.allwebview3.com/4RuWVkhC.gif$image
+||www.newmovie-hd.org/wp-content/uploads/2020/11/300x800-ssgame666.gif$image
+||www.newmovie-hd.org/wp-content/uploads/2020/10/ssgame350.gif$image
+||www.newmovie-hd.org/wp-content/uploads/2020/07/02.1.gif$image
+||www.newmovie-hd.org/wp-content/uploads/2020/10/panama888.gif$image
+||www.newmovie-hd.org/wp-content/uploads/2020/10/panama888.gif$image
+||www.newmovie-hd.org/wp-content/themes/newmovie/library/images/bullet.png$image
+||www.newmovie-hd.org/wp-content/uploads/2020/08/youlike369.gif$image
+||www.newmovie-hd.org/wp-content/uploads/2020/08/youlike369.gif$image
+||www.newmovie-hd.org/wp-content/uploads/2020/11/SA.Game_.gif$image
+||www.newmovie-hd.org/wp-content/uploads/2020/08/Sbobet333.gif$image
+||www.newmovie-hd.org/wp-content/uploads/2020/10/Sa800big.gif$image
+||www.newmovie-hd.org/wp-content/uploads/2020/11/IWANTBET.gif$image
+||www.newmovie-hd.org/wp-content/uploads/2020/10/NslotPX.gif$image
+||www.newmovie-hd.org/wp-content/uploads/2020/11/Ss800D3.gif$image
+||www.newmovie-hd.org/wp-content/uploads/2020/11/Sa800B3.gif$image
+||www.newmovie-hd.org/wp-content/uploads/2020/11/728x200-1688SEXYGAME.gif$image
+||www.newmovie-hd.org/wp-content/uploads/2020/11/728x200-1688SA.gif$image
+||www.newmovie-hd.org/wp-content/uploads/2020/11/728x200-UFA1919.gif$image
+||www.newmovie-hd.org/wp-content/uploads/2020/08/UFA800-1.gif$image
+||www.newmovie-hd.org/wp-content/uploads/2020/11/sa800B1.gif$image
+||www.newmovie-hd.org/wp-content/uploads/2020/11/banner-gif3-ufabetxxx-size200x800.gif$image
+||www.newmovie-hd.org/wp-content/uploads/2020/07/ufa24.gif$image
+||www.newmovie-hd.org/wp-content/uploads/2020/09/WmBet.gif$image
+
+! 2020-11-29 https://nungs.io
+||nungs.io/Resources/Assets/images/0114-728x200.gif$image
+||nungs.io/Resources/Assets/images/bkkwin-iphone-12-banner-728x200.gif$image
+
+! 2020-11-29 https://nungdeedee.com
+||nungdeedee.com/uploads/images/Joker%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%81%E0%B9%8A%E0%B8%B2800x100.gif$image
+
+! 2020-12-05 https://www.doomovie-hd.com
+www.doomovie-hd.com##div.floating_ads_bt-mid_container > [href="javascript:ShowContactDialogTab2();"] > [src^="data:image/png;base64,"]
+www.doomovie-hd.com##[href="https://www.prettygame77.com/"] > [src^="data:image/gif;base64,"]
+
+! 2020-12-12 https://www.doomovie-hd.com
+www.doomovie-hd.com##div.floating_ads_bt-mid_container:nth-of-type(4)
+www.doomovie-hd.com##div.floating_ads_bt-mid_container:nth-of-type(7)
+www.doomovie-hd.com##.right-side_floating_ad.side_floating_ad > .b > [href="#"] > [src^="data:image/png;base64,"]
+www.doomovie-hd.com##[href="https://www.sexyauto168.com/"] > [src^="data:image/gif;base64,"]
+www.doomovie-hd.com##article > div.horizontal-ad-bar100 > [href="#"] > [src^="data:image/jpg;base64,"]
+www.doomovie-hd.com##.left-side_floating_ad.side_floating_ad > .b > [href="#"] > [src^="data:image/png;base64,"]
+www.doomovie-hd.com##.x > .side_floating_ad_close_btn > span
+www.doomovie-hd.com##.x2 > .side_floating_ad_close_btn > span
+www.doomovie-hd.com##[href="https://www.pussy888win.com/"] > [src^="data:image/gif;base64,"]
+www.doomovie-hd.com##[href^="https://www.sexybaccarat168.com/"] > [src^="data:image/gif;base64,"]
+
+! 2020-12-12 https://www.037hdmovie.com
+||www.037hdmovie.com/wp-content/uploads/2020/12/1607132271600.gif$image
+||www.037hdmovie.com/wp-content/uploads/2020/05/FIFA555-2.gif$image
+||www.037hdmovie.com/wp-content/uploads/2020/12/1688.gif$image
+||www.037hdmovie.com/Banner/ezgif-1-9f1e9d314064.gif$image
+||www.037hdmovie.com/Banner/ezgif-1-7e6ce9fb3881.gif$image
+||www.037hdmovie.com/wp-content/uploads/2020/12/1607132297384.gif$image
+||www.037hdmovie.com/wp-content/uploads/2020/11/Sexygame666.gif$image
+||www.037hdmovie.com/wp-content/uploads/2020/11/VIP168.gif$image
+||www.037hdmovie.com/wp-content/uploads/2020/11/1-1.gif$image
+||www.037hdmovie.com/wp-content/uploads/2020/11/365.gif$image
+||www.037hdmovie.com/wp-content/uploads/2020/12/SBO.gif$image
+||www.037hdmovie.com/wp-content/uploads/2020/12/SBO.gif$image
+||www.037hdmovie.com/wp-content/uploads/2020/12/Next.gif$image
+||www.037hdmovie.com/wp-content/uploads/2020/12/Next.gif$image
+||www.037hdmovie.com/Banner/ezgif-1-a1fda5845bf9.gif$image
+||www.037hdmovie.com/Banner/ezgif-1-a1fda5845bf9.gif$image
+||www.037hdmovie.com/Banner/ezgif-1-636528d0847d.gif$image
+||www.037hdmovie.com/wp-content/uploads/2020/11/SA.gif$image
+||www.037hdmovie.com/Banner/ezgif-1-61f5c6d7ba32.png$image
+
+! 2020-12-12 https://movie2uhd.com
+||movie2uhd.com/wp-content/uploads/2020/11/dubai_1000x150.gif$image
+||movie2uhd.com/wp-content/uploads/2020/11/130x3651.gif$image
+movie2uhd.com###media_image-113 > .close-ad
+||movie2uhd.com/wp-content/uploads/2020/11/sagame1111-130-385.gif$image
+||movie2uhd.com/wp-content/uploads/2020/11/SAPro-130x385-1-1.gif$image
+||movie2uhd.com/wp-content/uploads/2020/11/130x365.gif$image
+movie2uhd.com###media_image-111 > .close-ad
+movie2uhd.com##.ad-float-bottom
+||movie2uhd.com/wp-content/uploads/2020/06/tcom-new.gif$image
+||movie2uhd.com/wp-content/uploads/2020/11/772x272%E0%B8%9B%E0%B8%B5%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88.gif$image
+||movie2uhd.com/wp-content/uploads/2020/11/dubai_772x272-2.gif$image
+||movie2uhd.com/wp-content/uploads/2020/12/200x544-ssgame666.gif$image
+||movie2uhd.com/wp-content/uploads/2020/12/200x544-sexy666.gif$image
+||movie2uhd.com/wp-content/uploads/2020/12/772x130-slotgame6666.gif$image
+
+! 2020-12-12 https://movie222hd.com
+||movie222hd.com/wp-content/uploads/S__24191024.gif$image
+
+! 2020-12-13 https://www.037hdmovie.com
+||www.037hdmovie.com/wp-content/uploads/2020/12/777.gif$image
+||www.037hdmovie.com/wp-content/uploads/2020/11/LAGA.gif$image
+||www.037hdmovie.com/wp-content/uploads/2020/11/911.gif$image
+||www.037hdmovie.com/wp-content/uploads/2020/11/gpbvegas1.gif$image
+
+! 2020-12-13 https://www.movie2fin.com
+||www.movie2fin.com/images/banners/KG9oGbZkQSIZePU54tr2uxpQkdm00rZ160x600__vip168sa.gif$image
+||www.movie2fin.com/images/banners/4jDXY7MZrAxRR68XpUUjfLXWKzURZJ2728x90_juad888.gif$image
+||www.movie2fin.com/images/banners/IunpxmfIIyCnZ35ucqQCVKvaf4LBvN9160x600__sexy1688.gif$image
+
+! 2020-12-14 https://downdetector.com
+downdetector.com##.evidon-barrier-acceptmessage
+downdetector.com###_evidon-background
+downdetector.com###_evidon-banner-content > div
+downdetector.com##.evidon-barrier
+downdetector.com###_evidon-barrier-wrapper
+
+! 2020-12-14 https://nungdeedee.com
+||nungdeedee.com/uploads/images/Joker%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%81%E0%B9%8A%E0%B8%B2720x180.gif$image
+||nungdeedee.com/uploads/images/c79dc29041e48a7dc533d2e079cf2622.gif$image
+||nungdeedee.com/uploads/images/8efe42670e831306db48c488c783ecfc.gif$image
+
+! 2020-12-19 https://anime-hayai.com
+||1.bp.blogspot.com/-Es_k2CFsDT0/X8rTaN1D11I/AAAAAAAAK_0/J9bKg_cs1YkSiEConRE3bXbuLn7rxLKBwCLcBGAsYHQ/s0/Hydra888.gif$image
+||1.bp.blogspot.com/-f7vJ0XyNGk0/X4Lthwt3tGI/AAAAAAAAKBY/AdPrLKL0JuIxCntcXsq8fx5mqS1c45KoACLcBGAsYHQ/s0/panama888.gif$image
+anime-hayai.com##.bottom-2x.text-center > .row
+
+! 2021-01-10 https://www.037hdmovie.com
+||www.037hdmovie.com/wp-content/uploads/2021/01/1609914250806.gif$image
+||www.037hdmovie.com/wp-content/uploads/2020/12/1609133156489.gif$image
+www.037hdmovie.com##div.filmborder:nth-of-type(30)
+||www.037hdmovie.com/wp-content/uploads^$important
+
+! 2021-01-10 https://www.doomovie-hd.com
+www.doomovie-hd.com##div.horizontal-ad-bar100 > [href^="https://affnew.s3-ap-southeast-1.amazonaws.com/sexy168.aff.html"] > [src^="data:image/gif;base64,"]
+www.doomovie-hd.com##[href="https://www.superslotfun.com/"] > [src^="data:image/gif;base64,"]
+www.doomovie-hd.com##.right-side_floating_ad.side_floating_ad > .b
+www.doomovie-hd.com##[href^="https://affnew.s3-ap-southeast-1.amazonaws.com/pussy888play.aff.html"] > [src^="data:image/gif;base64,"]
+www.doomovie-hd.com##[href="https://www.ambpoker66.com/"] > [src^="data:image/gif;base64,"]
+www.doomovie-hd.com##[href^="https://affnew.s3-ap-southeast-1.amazonaws.com/WINBETTH.aff.html"] > [src^="data:image/gif;base64,"]
+www.doomovie-hd.com##.left-side_floating_ad.side_floating_ad > .b
+||www.doomovie-hd.com/assets/img/banner-new/MV3_sexyauto168_1456x180_3.gif$image
+||www.doomovie-hd.com/assets/img/banner-new/MV3_sexyauto168_1456x180_3.gif$image
+||www.doomovie-hd.com/assets/img/banner-new/MV2-sexybaccarat168_1456x180.gif$image
+www.doomovie-hd.com##div.horizontal-ad-bar100 > [href^="https://affnew.s3-ap-southeast-1.amazonaws.com/918kissauto.aff.html"] > [src^="data:image/gif;base64,"]
+www.doomovie-hd.com##.topad_mid > div > [href^="https://affnew.s3-ap-southeast-1.amazonaws.com/sexy168.aff.html"] > [src^="data:image/gif;base64,"]
+www.doomovie-hd.com##[href="https://www.allbaccarat168.com/"] > [src^="data:image/gif;base64,"]
+www.doomovie-hd.com##[href^="https://affnew.s3-ap-southeast-1.amazonaws.com/slotxo24hr.aff.html"] > [src^="data:image/gif;base64,"]
+www.doomovie-hd.com##[href^="https://affnew.s3-ap-southeast-1.amazonaws.com/pgslot99.aff.html"] > [src^="data:image/gif;base64,"]
+www.doomovie-hd.com##td.topad_side > [href^="https://affnew.s3-ap-southeast-1.amazonaws.com/918kissauto.aff.html"] > [src^="data:image/gif;base64,"]
+www.doomovie-hd.com##[href="https://www.joker123th.com/"] > [src^="data:image/gif;base64,"]
+www.doomovie-hd.com##.content-body > div.horizontal-ad-bar100 > [href="#"] > [src^="data:image/jpg;base64,"]
+www.doomovie-hd.com##[href="https://www.joker123auto.com/"] > [src^="data:image/gif;base64,"]
+
+! 2021-01-10 https://www.newmovie-hd.org
+||www.newmovie-hd.org/wp-content/uploads/2020/12/S__8511497.gif$image
+||www.newmovie-hd.org/wp-content/uploads/2020/11/Sa800D2.gif$image
+
+! 2021-01-17 https://www.anime-master.com
+||www.anime-master.com/upload/slotgame666-2.gif$image
+
+! 2021-01-17 https://animekimi.com
+animekimi.com##[href="https://panama888.com/"] > .lazy.animekimi-banner
+animekimi.com##[href="https://ufa1919.com/"] > .lazy.animekimi-banner
+animekimi.com###animekimiads1
+
+! 2021-01-22 https://www.doomovie-hd.com
+||www.doomovie-hd.com/assets/img/banner-new/MV4.jpg$image
+
+! 2021-02-03 https://www.animesiam.com
+||cdn.shortpixel.ai/client/to_avif,q_glossy,ret_img,w_150,h_300/https://www.animesiam.com/wp-content/uploads/2021/01/SLOTXO-%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95-XO-SLOTXO-THAI.jpg$image
+||cdn.shortpixel.ai/client/to_avif,q_glossy,ret_img,w_600,h_200/https://www.animesiam.com/wp-content/uploads/2021/01/%E0%B8%84%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B9%82%E0%B8%99%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C-@GALAXY-TH.jpg$image
+||www.slotxo-gold.com/wp-content/uploads/2021/02/SlotXO-XOslot-%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95-XO-%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2-SLOTXO-1234.jpg$image
+www.animesiam.com##.close-left
+||cdn.shortpixel.ai/client/to_avif,q_glossy,ret_img,w_600,h_200/https://www.animesiam.com/wp-content/uploads/2021/01/Pornhub-th.jpg$image
+
+! 2021-02-04 https://www.pornhubdownload.com
+www.pornhubdownload.com###itfloater_closeev
+www.pornhubdownload.com##.itfloater_headline
+www.pornhubdownload.com##div.itfloater_row:nth-of-type(2)
+www.pornhubdownload.com##.itfloater_btn
+www.pornhubdownload.com###itfloater_wd
+
+! 2021-02-13 http://robertjackson413b.eklablog.com
+robertjackson413b.eklablog.com##.didomi-popup-notice-text > span
+robertjackson413b.eklablog.com##.didomi-popup-notice-with-data-processing.didomi-popup-notice-info-type.didomi-popup-notice.didomi-popup__dialog.didomi-popup-container
+robertjackson413b.eklablog.com##.didomi-popup__backdrop.didomi-notice-popup.didomi-popup-backdrop
+
+! 2021-02-14 https://movie222hd.com
+||movie222hd.com/wp-content/uploads/fl32568412.gif$image
+||movie222hd.com/wp-content/uploads/fl8547815.gif$image
+movie222hd.com##.col-xs-12 > .img-banner-center-bottom
+||movie222hd.com/wp-content/uploads/521247.gif$image
+||movie222hd.com/wp-content/uploads/bt321598.gif$image
+||movie222hd.com/wp-content/uploads/fd45487.gif$image
+||movie222hd.com/wp-content/uploads/12547852.gif$image
+||movie222hd.com/wp-content/uploads/ty56544.gif$image
+||movie222hd.com/wp-content/uploads/g565645.gif$image
+||movie222hd.com/wp-content/uploads/yt542984.gif$image
+||movie222hd.com/wp-content/uploads/ry54646.gif$image
+||movie222hd.com/wp-content/uploads/102547.gif$image
+||movie222hd.com/wp-content/uploads/close-banner-btn.png$image
+||movie222hd.com/wp-content/uploads/77785.gif$image
+||movie222hd.com/wp-content/uploads/2banner-gif-168-esports-740x400-1.gif$image
+||movie222hd.com/wp-content/uploads/3210258.gif$image
+||movie222hd.com/wp-content/uploads/*.gif$image
+
+! 2021-02-14 https://player.msa-video.com
+||baner.msa-video.com/*.jpg$image
+||baner.msa-video.com/S__5758995.jpg$image
+
+! 2021-02-14 https://www.doofree88.com
+||www.doofree88.com/images/fslider/banner-001.gif$image
+
+! 2021-02-16 https://miku-doujin.com
+||i.imgur.com/SmUrDCr.gif$image
+||i.imgur.com/SmUrDCr.gif$image
+||i.imgur.com/TxIj2H9.gif$image
+||i.imgur.com/1KTIMFM.gif$image
+||i.imgur.com/BzA9rvJ.gif$image
+||i.imgur.com/papxNuj.gif$image
+||i.imgur.com/papxNuj.gif$image
+||i.imgur.com/cLYlNca.gif$image
+||i.imgur.com/cLYlNca.gif$image
+||i.imgur.com/qkHdzEr.gif$image
+||i.imgur.com/byjeyMM.gif$image
+||i.imgur.com/RqhqywG.gif$image
+||i.imgur.com/XKgH0Q4.gif$image
+||i.imgur.com/XKgH0Q4.gif$image
+||i.imgur.com/Teyhx7s.gif$image
+||i.imgur.com/VyCIl5v.gif$image
+
+! 2021-02-16 https://h-ani.com
+||i.imgur.com/t5oXWuT.gif$image
+
+! 2021-02-17 https://h-ani.com
+||cloud.h-ani.com/i/HAJ0NOP.gif$image
+||cloud.h-ani.com/i/6h8G3Gw.gif$image
+||cloud.h-ani.com/i/pQhrkg2.gif$image
+||cloud.h-ani.com/i/Fwd2Iar.gif$image
+||cloud.h-ani.com/i/*.gif$image
+
+! 2021-02-17 https://www.dojinxxx.com
+||storage.googleapis.com/powerwork-bucket/ads/pgslot-150x350.gif$image
+||storage.googleapis.com/powerwork-bucket/ads/m012021/brazil770x130.gif$image
+||storage.googleapis.com/powerwork-bucket/ads/*$image
+||storage.googleapis.com/powerwork-bucket/ads/pgslot-150x350.gif$image
+www.dojinxxx.com##.banner-right.left-right-banner > .button-close-banner.close-banner
+www.dojinxxx.com##.footer-banner > .button-close-banner.close-banner
+
+
